@@ -4,7 +4,7 @@ import AddTutorial from "./components/add-tutorial.component";
 
 function App() {
     return (
-        <div className="App">
+        <div className="container App">
             <AddTutorial />
         </div>
     );
